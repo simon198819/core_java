@@ -1,0 +1,18 @@
+import java.util.*;
+public class TreeMapDemo;
+{
+    public static void main(String[]args)
+    {
+        TreeMap<integer,String> trmap=new TreeMap<>();
+        trmap.put(1,Item1);
+        trmap.put(2,Item2);
+        trmap.put(3,Item3);
+        trmap.put(4,Item4);
+        trmap.put(5,Item5);
+        trmap.put(6,Item6);
+        trmap.put(7,Item7);
+        trmap.put(8,Item8);
+        System.out.println(trmap);
+
+    }
+}
